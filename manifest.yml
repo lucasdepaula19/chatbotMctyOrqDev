@@ -1,0 +1,4 @@
+---
+applications:
+ - name: MicrocityOrquestrador
+   memory: 1GB
